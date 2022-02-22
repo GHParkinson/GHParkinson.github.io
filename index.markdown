@@ -7,8 +7,8 @@ layout: single
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <div class="css-typing">
-  <p>Hello, welcome to my portfolio site.<br></p>
+  <p>Hello, welcome to my portfolio.<br></p>
   <p>Here you will find my resume,<br></p>
-  <p>And recent projects i've worked on.</p>
+  <p>And any recent projects.</p>
   <p> Enjoy :)</p>
   </div>
