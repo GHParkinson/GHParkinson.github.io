@@ -8,6 +8,7 @@
     width: 100%;   
     margin: auto;
     font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-size: 1.2em;
     position: relative;
     overflow: hidden;
     opacity: 0;
