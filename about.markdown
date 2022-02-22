@@ -11,7 +11,7 @@ permalink: /about/
 <div class="css-typing">
   <p>Hello, I'm George Parkinson.</p>
   <p>I've just finished University. </p>
-  <p>I am interested in Web Development.</p>
+  <p>I'm interested in Web Development.</p>
 </div>
 
 
