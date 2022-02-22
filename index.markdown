@@ -8,6 +8,7 @@ layout: single
 
 <div class="css-typing">
   <p>Hello, welcome to my portfolio site.<br></p>
-  <p>Here you will find my recent projects.<br></p>
+  <p>Here you will find my resume,<br></p>
+  <p>And recent projects i've worked on.</p>
   <p> Enjoy :)</p>
   </div>

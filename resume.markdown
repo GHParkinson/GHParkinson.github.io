@@ -8,4 +8,8 @@ permalink: /resume/
 
 This is my resume placeholder
 
-![Resume](/_site/assets/images/resume.png/){:class="img-responsive"}
+<ul>
+    <li> Experience   </li>
+    <li> Education  </li>
+    <li> Skills  </li>
+</ul>

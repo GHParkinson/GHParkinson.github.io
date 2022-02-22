@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-title: About Me
 permalink: /about/
 
 
@@ -11,8 +10,8 @@ permalink: /about/
 
 <div class="css-typing">
   <p>Hello, I'm George Parkinson.</p>
-  <p>A Business Information Technology graduate</p>
-  <p>with an interest in Web Development.</p>
+  <p>I've just finished University. </p>
+  <p>I am interested in Web Development.</p>
 </div>
 
 
