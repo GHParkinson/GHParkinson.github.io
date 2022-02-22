@@ -5,5 +5,6 @@ author_profile: true
 layout: single
 ---
 
+This is my resume placeholder
 
 ![Resume](/_site/assets/images/resume.png/){:class="img-responsive"}

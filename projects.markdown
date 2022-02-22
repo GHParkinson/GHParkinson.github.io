@@ -4,3 +4,4 @@
 author_profile: true
 layout: single
 ---
+Hello. This my products placeholder.

@@ -1,7 +1,9 @@
 /* GLOBAL STYLES */
 /* Google Fonts */
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+@media (min-width: 64em) { .page { float: right; width: calc(100% - 200px); padding-right: 100px; } }
 
+@media (min-width: 80em) { .page { width: calc(100% - 300px); padding-right: 100px; } }
 
 .css-typing p {
     width: 100%;   

@@ -35,7 +35,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ZanezzGP"
+      url: "https://github.com/GHParkinson"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/george-parkinson-265965225/"
@@ -56,7 +56,7 @@ author:
       url: "mailto:georgehparkinson@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ZanezzGP"
+      url: "https://github.com/GHParkinson"
     - label: " LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/george-parkinson-265965225/"
