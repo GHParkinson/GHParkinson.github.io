@@ -12,7 +12,7 @@ permalink: /about/
 <div class="css-typing">
   <p>Hello, I'm George Parkinson, a Business Information<br></p>
   <p>Technology graduate, with an interest in Web Development.</p>
-
+</div>
 
 
 

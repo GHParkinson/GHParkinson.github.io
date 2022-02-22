@@ -4,3 +4,10 @@
 author_profile: true
 layout: single
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
+
+<div class="css-typing">
+  <p>Hello, welcome to my portfolio site.<br></p>
+  <p>Here you will find my recent projects.<br></p>
+  <p> Enjoy :)</p>
+  </div>
